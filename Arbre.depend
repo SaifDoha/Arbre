@@ -1,5 +1,11 @@
 # depslib dependency file v1.0
-1792578595 source:c:\users\saifd\onedrive\dokumenti\arbre\main.cpp
+1793185160 source:c:\users\saifd\onedrive\dokumenti\arbre\main.cpp
 	<iostream>
 	<queue>
+	<map>
+	<vector>
+	<chrono>
+	<iomanip>
+	<cmath>
+	<algorithm>
 
